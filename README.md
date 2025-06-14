@@ -54,7 +54,7 @@ git clone https://github.com/yourusername/EdgeDetectionViewer.git
 cd EdgeDetectionViewer
 
 # Download OpenCV SDK
-# Extract to app/src/main/cpp/opencv/
+ Extract to app/src/main/cpp/opencv/
 
 # Build the project
 ./gradlew assembleDebug
