@@ -49,8 +49,6 @@ EdgeDetectionViewer/
 
 ### 📦 Installation Steps
 
-# Clone the repository
-git clone https://github.com/yourusername/EdgeDetectionViewer.git
 cd EdgeDetectionViewer
 
 # Download OpenCV SDK
