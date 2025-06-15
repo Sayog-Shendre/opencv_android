@@ -80,6 +80,9 @@ This Android app demonstrates a complete image processing pipeline, capturing ca
 - Android device with camera
 - Minimum SDK: Android 7.0 (API 24)
 
+## Demo
+
+![Animated Demo](https://miro.medium.com/v2/resize:fit:875/1*X--gk-Zcj7VjruH9mZxxwg.gif)
 ### 📦 Installation Steps
 
 cd EdgeDetectionViewer
