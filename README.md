@@ -82,7 +82,7 @@ This Android app demonstrates a complete image processing pipeline, capturing ca
 
 ## Demo
 
-![Animated Demo](https://miro.medium.com/v2/resize:fit:875/1*X--gk-Zcj7VjruH9mZxxwg.gif)
+(https://miro.medium.com/v2/resize:fit:875/1*X--gk-Zcj7VjruH9mZxxwg.gif)
 ### 📦 Installation Steps
 
 cd EdgeDetectionViewer
